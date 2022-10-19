@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="791b5860-9ad6-4b41-9d32-43e96008cefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayFirstLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLargestValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayFirstLast">
+  <component name="RunManager" selected="Application.ArrayLargestValue">
     <configuration name="ArrayFirstLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayFirstLast" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayLargestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLargestValue" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLargestValue" />
         <item itemvalue="Application.ArrayFirstLast" />
         <item itemvalue="Application.DeleteArrayElement" />
         <item itemvalue="Application.BarrelShift" />
